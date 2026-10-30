@@ -1,4 +1,4 @@
-﻿#SALES_AGENT_AI
+
 AI Call – AI-Powered Voice Sales Assistant
 An automated voice-calling application that helps explain courses, answer prospective students' questions, and guide them through booking a free demo session. It uses Python, Flask, and Twilio Programmable Voice, with a simple web dashboard for initiating calls.
 Important: This repository contains calling functionality. Only call people who have given appropriate consent, follow applicable telemarketing and privacy laws, and provide a clear way to decline further calls.
